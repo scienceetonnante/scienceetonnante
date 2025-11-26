@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-I'm David Louapre, creator of the Youtube channel "Science étonnante" http://youtube.com/scienceetonnante, a popular science channel (in French) with more than 1.4 million subscribers. I'm also AI Scientist at 🤗HuggingFace, mostly working on mechanistic interpretability and robotics. 
+I'm David Louapre, creator of the Youtube channel "Science étonnante" http://youtube.com/scienceetonnante, a popular science channel (in French) with more than 1.4 million subscribers. 
 
-On this page, you will be able to find code that I used to create simulations for my videos, for instance in the field of physics, computer science, artificial intelligence or applied mathematics.
+I'm also AI Scientist at 🤗Hugging Face, mostly working on **mechanistic interpretability** and **robotics**. 
 
-You might also find some of my work in mechanistic interpretability of AI models.
+On this page, you will be able to find code that I used to create **simulations for my videos**, for instance in the field of physics, computer science, artificial intelligence or applied mathematics.
+
+You can also find some of my work in mechanistic interpretability of AI models.
 
 <div align="center">
 <img width="540" alt="channel_screenshot" src="https://github.com/user-attachments/assets/04e7a901-539c-4af1-8fe2-1a481447885a" />
